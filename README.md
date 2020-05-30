@@ -65,7 +65,7 @@
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持单端口/多端口切换和管理
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc42/
+- 使用方法: https://doubibackup.com/z2a4lk3l.html
 - 项目地址: https://github.com/ToyoDAdoubiBackup/shadowsocksr
 
 #### 脚本特点:
@@ -106,7 +106,10 @@
 
 - 脚本说明: Brook 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法:https://doubibackup.com/aybh4ww5-2.html
+- 使用方法:[『原创』一个优秀的跨平台 Socks5代理软件 —— Brook 一键安装管理脚本](https://doubibackup.com/aybh4ww5-2.html)
+- 项目地址:[Brook](https://github.com/txthinking/brook)
+==对于Windows的用户，最新版本的文件我是的有[Brook.msi文件安装时，出现闪退](https://github.com/txthinking/brook/releases/download/v20200502/Brook.msi),这里需要安装之前发布的低版本的软件，比如[Brook.exe(70M的)](https://github.com/txthinking/brook/releases/download/v20190205/Brook.exe)==
+如果这个也不行，可以使用，(Brook-Widows-386)[https://github.com/txthinking/brook/releases/download/v20200502/brook_windows_386.exe]配合着逗比的Brook Tool()也可以使用。
 
 ---
 ## goflyway.sh
@@ -122,7 +125,7 @@
 - 脚本说明: LightSocks 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/lightsocks-jc1/
-
+==没有支持windows版本的客户端==
 ---
 ## daze.sh
 
@@ -258,6 +261,7 @@
 - 脚本说明: Caddy 一键安装脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc1
+
 
 #### 下载安装:
 ``` bash

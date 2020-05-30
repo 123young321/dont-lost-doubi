@@ -53,16 +53,12 @@
 
 - 脚本说明: Shadowsocks 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc67/
+- 使用方法: https://doubibackup.com/kd691l4o.html
 - 项目地址: https://github.com/shadowsocks/go-shadowsocks2
 
 #### 脚本特点:
 目前网上的各个Shadowsocks脚本基本都是只有 安装/启动/重启 等基础功能，对于小白来说还是不够简单方便。既然是一键脚本，那么就要尽可能地简单，小白更容易接受使用！
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ss-go.sh && bash ss-go.sh
-```
 
 ---
 ## ssr.sh
@@ -83,11 +79,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ss-go.sh 
 - 支持 一键安装 锐速
 - 支持 一键安装 BBR
 - 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssr.sh && bash ssr.sh
-```
 
 ---
 ## ssrmu.sh
@@ -110,22 +101,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssr.sh &&
 - 支持 一键安装 BBR
 - 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssrmu.sh && bash ssrmu.sh
-```
-
 ---
 ## brook.sh
 
 - 脚本说明: Brook 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/brook-jc3/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x brook.sh && bash brook.sh
-```
+- 使用方法:https://doubibackup.com/aybh4ww5-2.html
 
 ---
 ## goflyway.sh
@@ -134,10 +115,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x brook.sh 
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/goflyway-jc2/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x goflyway.sh && bash goflyway.sh
-```
 
 ---
 ## lightsocks.sh
@@ -146,22 +123,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x goflyway.
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/lightsocks-jc1/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x lightsocks.sh && bash lightsocks.sh
-```
-
 ---
 ## daze.sh
 
 - 脚本说明: DAZE 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/daze-jc3/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x daze.sh && bash daze.sh
-```
 
 ---
 ## mtproxy.sh
@@ -170,22 +137,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x daze.sh &
 - 系统支持: CentOS7 / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc7/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x mtproxy.sh && bash mtproxy.sh
-```
-
 ---
 ## mtproxy_go.sh
 
 - 脚本说明: Mtproto Proxy Go版 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc9/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
-```
 
 ---
 
@@ -197,58 +154,30 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x mtproxy_g
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-20/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x iptables-pf.sh && bash iptables-pf.sh
-```
-
 ---
 ## brook-pf.sh
 
 - 脚本说明: Brook 端口转发 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-37/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x brook-pf.sh && bash brook-pf.sh
-```
-
 ---
 ## haproxy.sh
 
 - 脚本说明: HaProxy 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-19/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x haproxy.sh && bash haproxy.sh
-```
-
 ---
 ## socat.sh
 
 - 脚本说明: Socat 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-18/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x socat.sh && bash socat.sh
-```
-
 ---
 ## tinymapper.sh
 
 - 脚本说明: tinyPortMapper 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-36/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x tinymapper.sh && bash tinymapper.sh
-```
 
 ---
 
@@ -259,12 +188,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x tinymappe
 - 脚本说明: Aria2 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc4/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x aria2.sh && bash aria2.sh
-```
-
 ---
 ## cloudt.sh
 
@@ -272,12 +195,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x aria2.sh 
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-12/
 - 项目地址: https://github.com/jpillora/cloud-torrent
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x cloudt.sh && bash cloudt.sh
-```
-
 ---
 ## pserver.sh
 
@@ -285,12 +202,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x cloudt.sh
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-13/
 - 项目地址: https://github.com/asapach/peerflix-server
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x pserver.sh && bash pserver.sh
-```
-
 ---
 
 ## 服务器相关
@@ -300,23 +211,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x pserver.s
 - 脚本说明: BBR 一键安装管理脚本
 - 系统支持: Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-16/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x bbr.sh && bash bbr.sh
-```
-
 ---
 ## status.sh
 
 - 脚本说明: ServerStatus 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc3/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x status.sh && bash status.sh
-```
 
 ---
 ## ban_iptables.sh
@@ -325,23 +225,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x status.sh
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc2/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ban_iptables.sh && bash ban_iptables.sh
-```
-
 ---
 ## ssh_port.sh
 
 - 脚本说明: SSH 一键修改端口脚本
 - 系统支持: Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/linux-jc11/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssh_port.sh && bash ssh_port.sh
-```
-
 ---
 
 ## VPN相关
@@ -351,12 +240,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssh_port.
 - 脚本说明: Ocserv AnyConnect 一键安装管理脚本
 - 系统支持: Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/vpnzy-7/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ocserv.sh && bash ocserv.sh
-```
-
 ---
 
 ## DNS相关
@@ -366,12 +249,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ocserv.sh
 - 脚本说明: DowsDNS 一键安装管理脚本
 - 系统支持: CentOS7 / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/dowsdns-jc3/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x dowsdns.sh && bash dowsdns.sh
-```
-
 ---
 
 ## HTTP相关
@@ -401,11 +278,6 @@ caddy_install.sh uninstall
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-8/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x pythonhttp.sh && bash pythonhttp.sh
-```
-
 ---
 
 ## 其他
@@ -416,21 +288,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x pythonhtt
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/adbyby-jc2/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x adbyby.sh && bash adbyby.sh
-```
 
 ## gfw_push.sh
 
 - 脚本说明: 监测服务器IP是否被墙并推送至 Telegram 一键脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc8/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x gfw_push.sh && bash gfw_push.sh
-```
 
 ---
 ## libsodium.sh
@@ -439,22 +302,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x gfw_push.
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc6/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x libsodium.sh && bash libsodium.sh
-```
-
 ---
 ## ssr_check.sh
 
 - 脚本说明: ShadowsocksR 批量快速验证账号可用性
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/ss-jc56/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssr_check.sh
-```
 
 ---
 ## ssrstatus.sh
@@ -463,22 +316,12 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssr_check
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/shell-jc5/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssrstatus.sh && bash ssrstatus
-```
-
 ---
 ## ssr_ip_check.sh
 
 - 脚本说明: ShadowsocksR 检测每个端口链接IP数
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/ss-jc50/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssr_ip_check.sh
-```
 
 ---
 ## ~~pipes.sh~~
@@ -487,10 +330,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x ssr_ip_ch
 - 系统支持: CentOS7 / Debian7+ / Ubuntu14+
 - 使用方法: https://doub.io/pipesocks-jc2/
 
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && mv install.sh pipes.sh && chmod +x pipes.sh && bash pipes.sh
-```
 
 ---
 ## ~~gogo.sh~~
@@ -498,11 +337,6 @@ git clone https://github.com/handsomego/doubi  && cd doubi && mv install.sh pipe
 - 脚本说明: GoGo Tunnel 一键安装管理脚本（该软件已停更）
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
 - 使用方法: https://doub.io/wlzy-24/
-
-#### 下载安装:
-``` bash
-git clone https://github.com/handsomego/doubi  && cd doubi && chmod +x gogo.sh && bash gogo.sh
-```
 
 ---
 Copyright (C) 2016-2018 Toyo <https://doubibackup.com>

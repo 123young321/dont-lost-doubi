@@ -6,8 +6,8 @@
 ## 脚本索引
 
 * [***代理相关***](#代理相关)
-  * [ss-go.sh](#ss_gosh)
-  * [ssr.sh](#ssrsh)
+  * ~[ss-go.sh](#ss_gosh)~
+  * ~[ssr.sh](#ssrsh)~
   * [ssrmu.sh](#ssrmush)
   * [brook.sh](#brooksh)
   * [goflyway.sh](#goflywaysh)
@@ -49,7 +49,7 @@
 
 ## 代理相关
 
-## ss_go.sh
+~## ss_go.sh~
 
 - 脚本说明: Shadowsocks 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
@@ -61,7 +61,7 @@
 
 
 ---
-## ssr.sh
+~## ssr.sh~
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持单端口/多端口切换和管理
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
@@ -108,8 +108,9 @@
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
 - 使用方法:[『原创』一个优秀的跨平台 Socks5代理软件 —— Brook 一键安装管理脚本](https://doubibackup.com/aybh4ww5-2.html)
 - 项目地址:[Brook](https://github.com/txthinking/brook)
-==对于Windows的用户，最新版本的文件我是的有[Brook.msi文件安装时，出现闪退](https://github.com/txthinking/brook/releases/download/v20200502/Brook.msi),这里需要安装之前发布的低版本的软件，比如[Brook.exe(70M的)](https://github.com/txthinking/brook/releases/download/v20190205/Brook.exe)==
-如果这个也不行，可以使用，(Brook-Widows-386)[https://github.com/txthinking/brook/releases/download/v20200502/brook_windows_386.exe]配合着逗比的Brook Tool()也可以使用。
+
+#### 对于Windows的用户，最新版本的文件我是的有[Brook.msi文件安装时，出现闪退](https://github.com/txthinking/brook/releases/download/v20200502/Brook.msi),这里需要安装之前发布的低版本的软件，比如[Brook.exe(70M的)](https://github.com/txthinking/brook/releases/download/v20190205/Brook.exe)
+如果这个也不行，可以使用[Brook-Widows-386](https://github.com/txthinking/brook/releases/download/v20200502/brook_windows_386.exe)配合着逗比的[Brook Tool](https://tok9.com/archives/233/)也可以使用 ####
 
 ---
 ## goflyway.sh

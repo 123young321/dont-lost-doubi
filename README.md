@@ -125,8 +125,10 @@
 
 - 脚本说明: LightSocks 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/lightsocks-jc1/
-==没有支持windows版本的客户端==
+- 使用方法: [『原创』更方便的Windows系统 Lightsocks 客户端 —— Lightsocks Tools](https://doubibackup.com/_8lmsikm.html)
+#### Windows版尝试用[Windows-amd64]()，但是不工作。你可以用[Lightsocks Tools](https://soft.l-t.top/DOUBI_Soft/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/Lightsocks/Lightsocks%20Tools/)，
+配合Windows-amd64一块使用，类似于Brook Tools。
+
 ---
 ## daze.sh
 
@@ -191,7 +193,7 @@
 
 - 脚本说明: Aria2 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc4/
+- 使用方法: [BT/种子/磁力链接/HTTP/FTP 离线下载工具 —— Aria2 新 手动安装教程](https://doubibackup.com/bizht36j-3.html)
 ---
 ## cloudt.sh
 
